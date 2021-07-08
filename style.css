@@ -1,5 +1,8 @@
+* {
+    background: black;
+}
 .container {
-    color: blue;
+    color: grey;
 }
 #answer {
     width: 320px;
@@ -32,7 +35,7 @@ input:hover {
     color: white;
 }
 #equal {
-    width: 90;
-    height: 70px;
+    width: 70;
+    height: 90px;
     font-size: 50px;
 }
